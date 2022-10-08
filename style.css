@@ -1,0 +1,22 @@
+@charset "UTF-8";
+body{
+    background-color: grey;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#principal{
+    background-color: green;
+    text-align: center;
+}
+.titulo{
+    color: green;
+}
+.basico{
+    color: rgb(167, 215, 93);
+}
+.intermediario{
+    color: grey;
+}
+.avancado{
+    color: blue;
+}
